@@ -1,10 +1,10 @@
-body{
+code{
   text-align: justify;
-  font-size: small;
+  font-size: medium;
   font-family: sans-serif;
 }
 h1{
   text-align: left;
-  font-size: medium;
+  font-size: large;
   font-family: sans-serif;
 }
