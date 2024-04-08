@@ -1,9 +1,9 @@
 *{
   margin: 30px;
   padding: 30px 60px;
+  text-align: justify;
 }
 body{
-  text-align: justify;
   font-size: medium;
   font-family: sans-serif;
 }
