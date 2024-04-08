@@ -1,9 +1,12 @@
+*{
+  margin: 30px;
+}
 body{
   text-align: justify;
   font-size: medium;
   font-family: sans-serif;
 }
 h1{
-  font-size: 40;
+  font-size: 120px;
   font-family: sans-serif;
 }
